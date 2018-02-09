@@ -29,8 +29,8 @@
   },
   "homepage": "https://github.com/suiteplus/nsmockup#readme",
   "engines": {
-    "node": "4.0.0",
-    "npm": "2.10.0"
+    "npm": "~3.10.9",
+    "node": "~6.9.1"
   },
   "dependencies": {
     "body-parser": "1.18.2",
